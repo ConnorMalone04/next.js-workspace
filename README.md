@@ -1,2 +1,2 @@
 # next.js-workspace
-My workspace for practicing next.js, react, and other web tools
+My workspace for practicing next.js, react, tailwind, and other web tools
